@@ -1,0 +1,5 @@
+uwsgi==2.0.19
+flask==1.1.2
+flask_restful==0.3.8
+mysql-connector-python==8.0.20
+pymysql==0.9.3
